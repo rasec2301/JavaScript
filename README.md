@@ -1,4 +1,4 @@
 # JavaScript
 ## Boot Camp com arquivos de estudo JavaScript
 
-Seja Bem vindo a esse projeto, nele será monstrado tudo que eu estou estudando com JS, será monstrado tambem alguns projetos feito por mim.
+Seja Bem vindo, aqui será monstrado tudo que eu estou estudando envolvendo JS, tambem será monstrado alguns codigos feito por mim.
